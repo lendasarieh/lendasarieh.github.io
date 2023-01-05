@@ -87,7 +87,8 @@ li{
     /* float: left; */
 }
 .dah li{
-    padding: 0.5em 0;
+    padding-top: 0;
+    padding-bottom: 0.5em;
     margin: 0 1em 0;
     list-style: disc;
 }
