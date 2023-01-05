@@ -2,7 +2,7 @@
     margin: 0 auto;
     /* max-width: 1280px; */
     padding: 0;
-    font-family: Noto Sans CJK, Arial, Helvetica, sans-serif;
+    font-family: 'Noto Sans SC', Arial, Helvetica, sans-serif;
 }
 .container {
     margin: 0 auto;
@@ -87,12 +87,7 @@ li{
     /* float: left; */
 }
 .dah li{
-<<<<<<< HEAD
-    padding-top: 0;
-    padding-bottom: 0.5em;
-=======
     padding: 0.5em 0;
->>>>>>> 4fc7ee5 (t4)
     margin: 0 1em 0;
     list-style: disc;
 }
