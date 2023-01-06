@@ -4,6 +4,17 @@
     padding: 0;
     font-family: 'Noto Sans SC', Arial, Helvetica, sans-serif;
 }
+@font-face {
+    font-family: XEGO;
+    src: url(./fonts/XEGOEALL_Regular.ttf);
+}
+@font-face {
+    font-family: 'Fira Xdi8';
+    src: url(./fonts/FiraXdi8-Regular.ttf);
+}
+.xdi8_span_2{
+    font-family: 'Fira Xdi8', 'Noto Sans SC', Arial, Helvetica, sans-serif;
+}
 .container {
     margin: 0 auto;
 }
