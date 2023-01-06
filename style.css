@@ -155,12 +155,12 @@ h3{
     background-color: rgba(204, 238, 255, 0.75);
     text-align: left;
 }
-.langs li{
+.langs>a>li{
     display: block;
     margin: 0.5em 0;
     padding: 0.5em 1em;
 }
-.langs li:hover{
+.langs>a>li:hover{
     background-color: rgba(255, 255, 255, 0.9)
 }
 .rs_video{
