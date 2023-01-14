@@ -43,20 +43,20 @@ body>div{
 a{
     text-decoration: none;
 }
-.main{
+/* .main{
     background-color: aquamarine;
-}
-.video{
+} */
+.video .title{
     /* text-align: left; */
     background-color: rgba(0, 255, 255, 0.35);
     width: 100%;
 }
 .video .contents{
     width: 100%;
-    padding: 0.5em 0 0;
+    padding: 0;
 }
 .chung{
-    padding: 0.5em 0;
+    /* padding: 0.5em 0; */
     float: left;
     width: 100%;
     display: block;
@@ -71,10 +71,19 @@ a{
 /* .tsae{
     padding-bottom: 1em;
 } */
+.dah .title{
+    padding-left: 0;
+}
 .dah>div{
     /* margin-bottom: 1em; */
     width: 100%;
     float: left;
+    /* padding: 0.5em 1em; */
+    box-sizing: border-box;
+    padding: 0;
+}
+.dah>div .title,
+.dah>div .contents{
     padding: 0.5em 1em;
     box-sizing: border-box;
 }
@@ -87,7 +96,7 @@ a{
     margin-inline-start: 0;
     margin-inline-end: 0;
     line-height: 1.618em;
-    padding: 0.5em 0;
+    /* padding: 0.5em 0; */
 }
 ul{
     margin: 0.5em 0 0.5em;
@@ -112,6 +121,7 @@ h3{
     text-align: left;
     /* height: 3em; */
     float: left;
+    padding: 0.5em 1em;
 }
 .contents{
     float: left;
@@ -122,19 +132,19 @@ h3{
     width: 100%;
 }
 /*各分区的颜色*/
-.intro{
+.intro .title{
     background-color: rgba(127,255,228,0.5);
 }
-.settings{
+.settings .title{
     background-color: rgba(159,255,203,0.5);
 }
-.writing_system{
+.writing_system .title{
     background-color: rgba(191,255,178,0.5);
 }
-.teoh{
+.teoh .title{
     background-color: rgba(223,255,153,0.5);
 }
-.tsae{
+.tsae .title{
     background-color: rgba(255,255,128,0.5);
 }
 .selection{
@@ -203,6 +213,6 @@ table th,td{
     padding: 0.5em;
     border-radius: 0.5em;
     text-align: center;
-    background-color: rgb(160,255,224);
+    background-color: rgba(191,255,178,0.75);
     font-size: smaller;
 }
