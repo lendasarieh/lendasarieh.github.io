@@ -15,6 +15,14 @@
     src: url(./fonts/FiraXdi8-Regular.ttf);
 }
 
+@media only screen and (max-width:400px) {
+    .rs_logo {
+        content: url(./images/rs_logo_8.png);
+    }
+}
+
+@media only screen and (min-width:400px) {}
+
 .xdi8_span_2 {
     font-family: 'Fira Xdi8', 'Noto Sans SC', Arial, Helvetica, sans-serif;
 }
