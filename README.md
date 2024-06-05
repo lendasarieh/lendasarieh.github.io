@@ -33,6 +33,8 @@ IT - Benvenuti nel repository GitHub del sito ufficiale di Lenda Sarieh!
 
 JA - 「レンダ・サリエ」（人工言語）の公式サイトのGitHubリポジトリへようこそ！
 
+KM - សូម​ស្វាគមន៍​ទៅ​កាន់​ឃ្លាំង GitHub នៃ​តំបន់​បណ្ដាញ​ធម្មតា​របស់ Lenda Sarieh!
+
 KO - 렌다 사리에 (인공어) 의 공식 웹 사이트의 GitHub 저장소에 오신 것을 환영합니다!
 
 MS - Selamat datang ke GitHub Repositori laman web rasmi Lenda Sarieh!
