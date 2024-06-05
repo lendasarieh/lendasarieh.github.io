@@ -13,6 +13,8 @@ DE - Willkommen im GitHub Repository der offiziellen Website von Lenda Sarieh!
 
 DK - Velkommen til GitHub Repository af den officielle hjemmeside for Lenda Sarieh!
 
+EL - Καλώς ήρθατε στο αποθετήριο της επίσημης ιστοσελίδας της Λέντα Σαριέχ!
+
 ES - ¡Bienvenidos al repositorio GitHub en el sitio web oficial de Lenda Sarieh!
 
 FR - Bienvenue sur le dépôt GitHub du site officiel de Lenda Sarieh!
@@ -38,5 +40,9 @@ PT(BR) - Bem-vindos ao GitHub Repository do site oficial de Lenda Sarieh!
 TA - லெண்டா சாரீஹ் அரசியல் இணையதளத்தின் கிட்ஹுப் பதிப்புரைக்கு வரவேற்கிறீர்கள்!
 
 TH - ยินดีต้อนรับสู่ GitHub repository จากเว็บไซต์อย่างเป็นทางการของ Lenda Sarieh!
+
+TL - Maligayang pagdating sa GitHub Repository ng opisyal na website ni Lenda Sarieh!
+
+TR - Lenda Sarieh'in resmi web sitesinin GitHub deposuna hoş geldiniz!
 
 VI - Chào mừng bạn đến với kho lưu trữ GitHub trên trang web chính thức của Lenda Sarieh!
