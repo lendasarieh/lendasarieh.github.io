@@ -15,6 +15,8 @@ DK - Velkommen til GitHub Repository af den officielle hjemmeside for Lenda Sari
 
 EL - Καλώς ήρθατε στο αποθετήριο της επίσημης ιστοσελίδας της Λέντα Σαριέχ!
 
+EO - Bonvenon al la GitHub repozitorio de la oficiala retejo de Lenda Sarieh!
+
 ES - ¡Bienvenidos al repositorio GitHub en el sitio web oficial de Lenda Sarieh!
 
 FR - Bienvenue sur le dépôt GitHub du site officiel de Lenda Sarieh!
