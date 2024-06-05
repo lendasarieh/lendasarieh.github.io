@@ -47,4 +47,6 @@ TL - Maligayang pagdating sa GitHub Repository ng opisyal na website ni Lenda Sa
 
 TR - Lenda Sarieh'in resmi web sitesinin GitHub deposuna hoş geldiniz!
 
+UK - Ласкаво просимо до сховища GitHub офіційної мовної мережі Sarieh!
+
 VI - Chào mừng bạn đến với kho lưu trữ GitHub trên trang web chính thức của Lenda Sarieh!
