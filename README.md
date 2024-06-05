@@ -17,17 +17,17 @@ ES - ¡Bienvenidos al repositorio GitHub en el sitio web oficial de Lenda Sarieh
 
 FR - Bienvenue sur le dépôt GitHub du site officiel de Lenda Sarieh!
 
-ID - Selamat datang di GitHub Repository website resmi Lenda Sarieh!
+HE - ברוכים הבאים למחסן הגיט-האב של אתר רשמי לנדה סארי!
 
-IN - लेंडा सारीह के आधिकारिक वेबसाइट के GitHub रिपोजिटरी में स्वागत है!
+HI - लेंडा सारीह के आधिकारिक वेबसाइट के GitHub रिपोजिटरी में स्वागत है!
+
+IN - Selamat datang di GitHub Repository website resmi Lenda Sarieh!
 
 IT - Benvenuti nel repository GitHub del sito ufficiale di Lenda Sarieh!
 
-IW - ברוכים הבאים למחסן הגיט-האב של אתר רשמי לנדה סארי!
+JA - 「レンダ・サリエ」（人工言語）の公式サイトのGitHubリポジトリへようこそ！
 
-JP - 「レンダ・サリエ」（人工言語）の公式サイトのGitHubリポジトリへようこそ！
-
-KR - 렌다 사리에 (인공어) 의 공식 웹 사이트의 GitHub 저장소에 오신 것을 환영합니다!
+KO - 렌다 사리에 (인공어) 의 공식 웹 사이트의 GitHub 저장소에 오신 것을 환영합니다!
 
 MS - Selamat datang ke GitHub Repositori laman web rasmi Lenda Sarieh!
 
