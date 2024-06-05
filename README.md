@@ -19,6 +19,8 @@ EO - Bonvenon al la GitHub repozitorio de la oficiala retejo de Lenda Sarieh!
 
 ES - ¡Bienvenidos al repositorio GitHub en el sitio web oficial de Lenda Sarieh!
 
+FA - به محفوظه‌ی GitHub از وبسایت رسمی Lenda Sarieh خوش آمدید!
+
 FR - Bienvenue sur le dépôt GitHub du site officiel de Lenda Sarieh!
 
 HE - ברוכים הבאים למחסן הגיט-האב של אתר רשמי לנדה סארי!
@@ -47,6 +49,6 @@ TL - Maligayang pagdating sa GitHub Repository ng opisyal na website ni Lenda Sa
 
 TR - Lenda Sarieh'in resmi web sitesinin GitHub deposuna hoş geldiniz!
 
-UK - Ласкаво просимо до сховища GitHub офіційної мовної мережі Sarieh!
+UK - Ласкаво просимо до сховища GitHub офіційного веб-сайту Ленди Сарія!
 
 VI - Chào mừng bạn đến với kho lưu trữ GitHub trên trang web chính thức của Lenda Sarieh!
