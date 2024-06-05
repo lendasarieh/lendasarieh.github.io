@@ -17,6 +17,8 @@ FR - Bienvenue sur le dépôt GitHub du site officiel de Lenda Sarieh!
 
 ID - Selamat datang di GitHub Repository website resmi Lenda Sarieh!
 
+IN - लेंडा सारीह के आधिकारिक वेबसाइट के GitHub रिपोजिटरी में स्वागत है!
+
 IT - Benvenuti nel repository GitHub del sito ufficiale di Lenda Sarieh!
 
 IW - ברוכים הבאים למחסן הגיט-האב של אתר רשמי לנדה סארי!
