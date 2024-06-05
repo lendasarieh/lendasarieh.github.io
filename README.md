@@ -11,6 +11,8 @@ AR - مرحبا بكم في GitHub مستودع ليندا ساريه الموق
 
 DE - Willkommen im GitHub Repository der offiziellen Website von Lenda Sarieh!
 
+DK - Velkommen til GitHub Repository af den officielle hjemmeside for Lenda Sarieh!
+
 ES - ¡Bienvenidos al repositorio GitHub en el sitio web oficial de Lenda Sarieh!
 
 FR - Bienvenue sur le dépôt GitHub du site officiel de Lenda Sarieh!
