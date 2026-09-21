@@ -1,0 +1,184 @@
+---
+layout: default
+lang: en
+lang_display: English
+footer_text: For more questions, please contact <a href="mailto:jack201806@outlook.com">Jack Wang</a> by e-mail.
+---
+<div class="chung video">
+    <div class="title">
+        <h3>I Love Languages</h3>
+        <span class="func">▼</span>
+    </div>
+    <div class="contents">
+        {% include iframe-script.html %}
+        <iframe class="rs_video" src="https://player.bilibili.com/player.html?aid=973813617&bvid=BV1744y1z75C&cid=907748403&page=1&high_quality=1" scrolling="yes" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+    </div>
+</div>
+<div class="main">
+    <div class="chung dah">
+        <div class="intro">
+            <div class="title">
+                <h3>Introduction</h3>
+                <span class="func">▼</span>
+            </div>
+            <p class="contents">
+                Lenda Sarieh (IPA:/lendə sa:li'eɪ/) is a constructed language which is created by Jack Wang, a conlanger since the year 2010. It's an independent conlang from natural languages which absorbs the essence of languages from all over the world.
+                <br> In the autumn of 2010, Jack Wang started his conlanging. This conlang was named "Lenda Sarieh" in 2012, which means "a language whose learning cost is dirty-cheap".
+                <br> In 2018, Jack Wang added elements of vocabulary and grammar in Chinese(including its dialects such as Cantonese and Hokkien), English, Japanese, Korean, Vietnamese, Malay, etc. to the original Lenda Sarieh language, boosting
+                its further development.
+            </p>
+        </div>
+        <div class="settings">
+            <div class="title">
+                <h3>Settings</h3>
+                <span class="func">▼</span>
+            </div>
+            <p class="contents">
+                Lenda Sarieh is an analytic language whose word order is VOS. With its unique and clear syntatic structure, and multiple words derived from natural languages, the learning cost of this conlang will decrease.
+                <br> The development of Lenda Sarieh language will last forever. Welcome to support and join the Lenda Sarieh Community, and contribute to Lenda Sarieh language!
+            </p>
+        </div>
+        <div class="writing_system dah_end">
+            <div class="title">
+                <h3>Writing System</h3>
+                <span class="func">▼</span>
+            </div>
+            <div class="contents">
+                <p>
+                    There are 3 distinct writing systems in Lenda Sarieh language, which will be used in different contexts:
+                    <ul>
+                        <li>
+                            <img src="{{ '/images/Hana RC1(360f).png' | relative_url }}" alt="RC1 - Rya Romacha Chueh" title="RC1 - Rya Romacha Chueh" class="icons hana">
+                            <span style="font-weight: bolder;">
+                                RC1 - Rya Romacha Chueh (Latin Alphabet ONLY)
+                            </span>
+                            <br> As the name implies, this writing system only contains English alphabet and essential punctuation marks. (Applicable to daily lives)
+                        </li>
+                        <li>
+                            <img src="{{ '/images/Hana R&H(360f).png' | relative_url }}" alt="ROH - 羅馬字 ondina 漢字" title="ROH - 羅馬字 ondina 漢字" class="icons hana">
+                            <span style="font-weight: bolder;">
+                                ROH - 羅馬字 ondina 漢字 (Latin Alphabet and Chinese Characters)
+                            </span>
+                            <br> Different from many other langugaes, this writing system will contain both English alphabet and Chinese characters (There are many words transliterated from Sinosphere languages in Lenda Sarieh) (Applicable to
+                            academy and law, etc.)
+                        </li>
+                        <li>
+                            <img src="{{ '/images/Hana S1C(360f).png' | relative_url }}" alt="S1C - [1] 0002-001-101" title="S1C - [1] 0002-001-101" class="icons hana">
+                            <span style="font-weight: bolder;">
+                                S1C - [1] 0002-001-101 (Arabic Numerals and Special Characters)
+                            </span>
+                            <br> This is a unique writing system in Lenda Sarieh, whose main character is that words will be converted to arabic numerals with 2-4 digits according to <a href="{{ '/images/L2N S1C.png' | relative_url }}" target="_blank">this rule</a>.
+                            (Applicable to coding certain matters)
+                        </li>
+                    </ul>
+                    Here are the samples of the forms of the words in different writing systems in Lenda Sarieh.
+                    <table border="0" cellspacing="4px">
+                        <tr>
+                            <th>
+                                Words
+                            </th>
+                            <th>
+                                <img src="{{ '/images/Hana RC1(360f).png' | relative_url }}" alt="RC1 - Rya Romacha Chueh" title="RC1 - Rya Romacha Chueh" class="icons hana"> RC1
+                            </th>
+                            <th>
+                                <img src="{{ '/images/Hana R&H(360f).png' | relative_url }}" alt="ROH - 羅馬字 ondina 漢字" title="ROH - 羅馬字 ondina 漢字" class="icons hana"> R&H
+                            </th>
+                            <th>
+                                <img src="{{ '/images/Hana S1C(360f).png' | relative_url }}" alt="S1C - [1] 0002-001-101" title="S1C - [1] 0002-001-101" class="icons hana"> S1C
+                            </th>
+                        </tr>
+                        <tr>
+                            <td>We, us</td>
+                            <td>Aramona Moh (A[10])</td>
+                            <td>Aramona Moh (A[10])</td>
+                            <td>0122[10]</td>
+                        </tr>
+                        <tr>
+                            <td>Electronic Calculator</td>
+                            <td>Jungja Kokurat Arie (J.Kr.A)</td>
+                            <td>電子 Kokurat Arie (J.Kr.A)</td>
+                            <td>0111-03:1012-010:01</td>
+                        </tr>
+                        <tr>
+                            <td>Software</td>
+                            <td>Nung Teh (NTH)</td>
+                            <td>軟體 (NTH)</td>
+                            <td>1022-1222-0000</td>
+                        </tr>
+                    </table>
+                </p>
+            </div>
+        </div>
+    </div>
+    <div class="chung teoh">
+        <div class="title">
+            <h3>Related Archives</h3>
+            <span class="func">▼</span>
+        </div>
+        <ul class="related_documents contents">
+            <li>
+                <a href="https://docs.qq.com/sheet/DUVZUeWhzd3F3TFFQ" target="_blank">
+                    <img src="{{ '/images/EXCEL.png' | relative_url }}" alt="EXCEL" class="icons"> Swadesh List of Lenda Sarieh (Simplified Chinese)
+                </a>
+            </li>
+            <li>
+                <a href="https://docs.qq.com/sheet/DUUVxR3JlbGJoZWJP" target="_blank">
+                    <img src="{{ '/images/EXCEL.png' | relative_url }}" alt="EXCEL" class="icons"> Other vocabulary of Lenda Sarieh (Simplified Chinese)
+                </a>
+            </li>
+            <li>
+                <a href="https://docs.qq.com/aio/p/sctaxqr2x8jr9z3" target="_blank">
+                    <img src="{{ '/images/online_doc.webp' | relative_url }}" alt="OnlineDoc" class="icons"> Online Grammar Handbook for Lenda Sarieh (Simplified Chinese)
+                </a>
+            </li>
+        </ul>
+    </div>
+    <div class="chung tsae">
+        <div class="title">
+            <h3>Related Links</h3>
+            <span class="func">▼</span>
+        </div>
+        <ul class="related_links contents">
+            <li>
+                <a href="https://conlang.fandom.com/wiki/Lenda_Sarieh" target="_blank">
+                    <img src="{{ '/images/favicon.ico' | relative_url }}" alt="Lenda Sarieh | Conlang | Fandom" title="Lenda Sarieh | Conlang | Fandom" class="icons"> Lenda Sarieh Fandom Page
+                </a>
+            </li>
+            <li>
+                <a href="https://www.instagram.com/lenda.sarieh/" target="_blank">
+                    <img src="{{ '/images/lam-fZmwmvn.png' | relative_url }}" alt="Official Instagram Account of Lenda Sarieh" title="Official Instagram Account of Lenda Sarieh" class="icons"> Official Instagram Account of Lenda Sarieh
+                </a>
+            </li>
+            <li>
+                <a href="https://discord.gg/Dn9qssxg99" target="_blank">
+                    <img src="{{ '/images/discord.png' | relative_url }}" alt="Discord Server of Lenda Sarieh Community" title="Discord Server of Lenda Sarieh Community" class="icons"> Discord Server of Lenda Sarieh Community
+                </a>
+            </li>
+            <li>
+                <a href="https://b23.tv/k5W5f1r" target="_blank">
+                    <img src="{{ '/images/bilibili.png' | relative_url }}" alt="Video List of Lenda Sarieh (bilibili.com)" title="Video List of Lenda Sarieh (bilibili.com)" class="icons"> Video List of Lenda Sarieh (bilibili.com) (Simplified Chinese)
+                </a>
+            </li>
+            <li>
+                <a href="https://b23.tv/cs4Xer3" target="_blank">
+                    <img src="{{ '/images/bilibili (1).png' | relative_url }}" alt="Article List of Lenda Sarieh (bilibili.com)" title="Article List of Lenda Sarieh (bilibili.com)" class="icons"> Article List of Lenda Sarieh (bilibili.com) (Simplified Chinese)
+                </a>
+            </li>
+            <li>
+                <a href="https://youtube.com/playlist?list=PL_jXKwzZ_mxC6Z9v41Z7Ald5an1sC9twx" target="_blank">
+                    <img src="{{ '/images/favicon_144x144.png' | relative_url }}" alt="Playlist of Lenda Sarieh (YouTube)" title="Playlist of Lenda Sarieh (YouTube)" class="icons"> Playlist of Lenda Sarieh (YouTube)
+                </a>
+            </li>
+            <li>
+                <a href="https://github.com/lendasarieh/lendasarieh.github.io" target="_blank">
+                    <img src="{{ '/images/github.png' | relative_url }}" alt="GitHub Repository of THIS WEBSITE" title="GitHub Repository of THIS WEBSITE" class="icons"> GitHub Repository of THIS WEBSITE
+                </a>
+            </li>
+            <li style="padding-right: 0;">
+                <a href="https://github.com/jack201806/Lenda-Sarieh-RS" target="_blank">
+                    <img src="{{ '/images/github.png' | relative_url }}" alt="GitHub Repository of Lenda Sarieh" title="GitHub Repository of Lenda Sarieh" class="icons"> GitHub Repository of Lenda Sarieh
+                </a>
+            </li>
+        </ul>
+    </div>
+</div>

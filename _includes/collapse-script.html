@@ -1,0 +1,23 @@
+    <script>
+        var title_0 = document.getElementsByClassName("title");
+        var func_0 = document.getElementsByClassName("func");
+        var contents_0 = document.getElementsByClassName("contents");
+        console.log(func_0.length);
+        console.log(contents_0.length);
+        for (let i = 0; i < func_0.length; i++) {
+            console.log(i);
+            let title = title_0[i];
+            let func = func_0[i];
+            let contents = contents_0[i];
+            title.onclick = function() {
+                console.log(func.innerHTML);
+                if (func.innerHTML == "▼") {
+                    contents.style.display = "none";
+                    func.innerHTML = "▲";
+                } else {
+                    contents.style.display = "block";
+                    func.innerHTML = "▼";
+                }
+            }
+        }
+    </script>

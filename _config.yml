@@ -1,0 +1,54 @@
+# Site settings
+title: Lenda Sarieh
+description: 白菜语 - Lenda Sarieh 官方网站
+lang: zh-CN
+url: "https://lendasarieh.github.io"
+baseurl: ""
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Exclude from processing
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - index.html
+  - index_en.html
+  - index_zh.html
+  - index_zh_t.html
+  - index_zh_r.html
+  - index_zh_m.html
+  - index_hsn.html
+  - index_wingzau.html
+  - index_Cantonese.html
+  - index_lw.html
+  - index_xdi8.html
+  - index_brdh.html
+  - index_patgem.html
+  - index_qmt.html
+  - choose_language.html
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "default"
+
+# Collections (for different language versions)
+collections:
+  pages:
+    output: true
+    permalink: /:path/

@@ -1,0 +1,12 @@
+<body>
+    <div class="top">
+        <img class="rs_logo" src="{{ '/images/Lenda Sarieh [Trsp-C].png' | relative_url }}" alt="Lenda Sarieh Logo">
+        <div class="selection" id="lang_slct">
+            <a class="languages" href="{{ '/choose_language.html' | relative_url }}" title="Chus Lenda / Choose Languages / 选择语言">
+                🌍 {{ page.lang_display | default: 'Lenda Sarieh' }}
+            </a>
+            {% if page.show_script_switch %}
+            <span id="switch_ws" title="Rya Romacha Chueh (RC1)">RC1</span>
+            {% endif %}
+        </div>
+    </div>

@@ -1,0 +1,213 @@
+---
+layout: default
+lang: zh-CN
+lang_display: 简体中文
+footer_text: 如有更多问题，请邮箱联系<a href="mailto:jack201806@outlook.com">Jack Wang</a>。
+---
+<div class="chung video">
+    <div class="title">
+        <h3>I Love Languages</h3>
+        <span class="func">▼</span>
+    </div>
+    <div class="contents">
+        {% include iframe-script.html %}
+        <iframe class="rs_video" src="https://player.bilibili.com/player.html?aid=973813617&bvid=BV1744y1z75C&cid=907748403&page=1&high_quality=1" scrolling="yes" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+    </div>
+</div>
+<div class="main">
+    <div class="chung dah">
+        <div class="intro">
+            <div class="title">
+                <h3>简介</h3>
+                <span class="func">▼</span>
+            </div>
+            <p class="contents">
+                白菜语（Lenda Sarieh, IPA:/lendə sa:li'eɪ/）， 是由人造语言爱好者Jack Wang从2010年开始创作的一种独立于自然语言体系， 又吸收世界各地语言之精华于一体的人工语言。
+                <br> 2010年秋天，Jack Wang便开始了人造语言的创作， 并于2012年将其命名为"白菜语"（Lenda Sarieh）， 意为"学习成本是白菜价的语言"。
+                <br> 2018年，Jack Wang在原始白菜语的基础上， 又加入了汉语（含粤语、闽南语等方言）、英语、日语、朝鲜语、越南语、马来语等语言的词汇和语法元素， 推动了白菜语的进一步发展。
+            </p>
+        </div>
+        <div class="settings">
+            <div class="title">
+                <h3>设定</h3>
+                <span class="func">▼</span>
+            </div>
+            <p class="contents">
+                白菜语是VOS（谓宾主）语序的分析语，句法结构独特清新，大量接纳并转写了自然语言的词汇，这无疑将降低其学习成本。
+                <br> 白菜语的发展，只有进行时，没有完成时。欢迎大家支持并加入白菜语社区，为白菜语添砖加瓦！
+            </p>
+        </div>
+        <div class="writing_system dah_end">
+            <div class="title">
+                <h3>
+                    书写系统
+                </h3>
+                <span class="func">▼</span>
+            </div>
+            <div class="contents">
+                <p>
+                    白菜语有3种各具特色的书写系统，将分别适用于不同语境：
+                    <ul>
+                        <li>
+                            <img src="{{ '/images/Hana RC1(360f).png' | relative_url }}" alt="RC1 - Rya Romacha Chueh" title="RC1 - Rya Romacha Chueh" class="icons hana">
+                            <span style="font-weight: bolder;">
+                                RC1 - Rya Romacha Chueh（纯罗马字）
+                            </span>
+                            <br> 顾名思义，该书写系统将只包括26个英文字母和必要的标点符号。（适用于日常生活）
+                        </li>
+                        <li>
+                            <img src="{{ '/images/Hana R&H(360f).png' | relative_url }}" alt="ROH - 羅馬字 ondina 漢字" title="ROH - 羅馬字 ondina 漢字" class="icons hana">
+                            <span style="font-weight: bolder;">
+                                ROH - 羅馬字 ondina 漢字（罗马字+汉字）
+                            </span><br> 与许多其他语言不同的是，该书写系统将同时包括拉丁字母和汉字（白菜语含有大量转写自汉字文化圈语言的词汇）(适用于学术、法律等领域)。
+                        </li>
+                        <li>
+                            <img src="{{ '/images/Hana S1C(360f).png' | relative_url }}" alt="S1C - [1] 0002-001-101" title="S1C - [1] 0002-001-101" class="icons hana">
+                            <span style="font-weight: bolder;">
+                                S1C - [1] 0002-001-101（阿拉伯数字+字符）
+                            </span><br> 这是白菜语独有的书写系统，最主要的特点就是将白菜语的词汇按照
+                            <a href="{{ '/images/L2N S1C.png' | relative_url }}" target="_blank">这种规则</a>逐个转换为2-4位的阿拉伯数字。（适用于为某事物编码等特定场合）
+                        </li>
+                    </ul>
+                    白菜语词汇在不同书写系统中的形式，示例如下：
+                    <table border="0" cellspacing="4px">
+                        <tr>
+                            <th>
+                                词汇
+                            </th>
+                            <th>
+                                <img src="{{ '/images/Hana RC1(360f).png' | relative_url }}" alt="RC1 - Rya Romacha Chueh" title="RC1 - Rya Romacha Chueh" class="icons hana"> RC1
+                            </th>
+                            <th>
+                                <img src="{{ '/images/Hana R&H(360f).png' | relative_url }}" alt="ROH - 羅馬字 ondina 漢字" title="ROH - 羅馬字 ondina 漢字" class="icons hana"> R&H
+                            </th>
+                            <th>
+                                <img src="{{ '/images/Hana S1C(360f).png' | relative_url }}" alt="S1C - [1] 0002-001-101" title="S1C - [1] 0002-001-101" class="icons hana"> S1C
+                            </th>
+                        </tr>
+                        <tr>
+                            <td>我们</td>
+                            <td>Aramona Moh (A[10])</td>
+                            <td>Aramona Moh (A[10])</td>
+                            <td>0122[10]</td>
+                        </tr>
+                        <tr>
+                            <td>电子计算器</td>
+                            <td>Jungja Kokurat Arie (J.Kr.A)</td>
+                            <td>電子 Kokurat Arie (J.Kr.A)</td>
+                            <td>0111-03:1012-010:01</td>
+                        </tr>
+                        <tr>
+                            <td>软件</td>
+                            <td>Nung Teh (NTH)</td>
+                            <td>軟體 (NTH)</td>
+                            <td>1022-1222-0000</td>
+                        </tr>
+                    </table>
+                </p>
+            </div>
+        </div>
+    </div>
+
+    <div class="chung teoh">
+        <div class="title">
+            <h3>相关资料</h3>
+            <span class="func">▼</span>
+        </div>
+        <ul class="related_documents contents">
+            <li>
+                <a href="https://docs.qq.com/sheet/DUVZUeWhzd3F3TFFQ" target="_blank">
+                    <img src="{{ '/images/EXCEL.png' | relative_url }}" alt="EXCEL" class="icons"> 白菜语斯瓦迪士核心词表
+                </a>
+            </li>
+            <li>
+                <a href="https://docs.qq.com/sheet/DUUVxR3JlbGJoZWJP" target="_blank">
+                    <img src="{{ '/images/EXCEL.png' | relative_url }}" alt="EXCEL" class="icons"> 白菜语其他词汇表
+                </a>
+            </li>
+            <li>
+                <a href="https://docs.qq.com/aio/p/sctaxqr2x8jr9z3" target="_blank">
+                    <img src="{{ '/images/online_doc.webp' | relative_url }}" alt="OnlineDoc" class="icons"> 白菜语在线语法手册（简体中文版）
+                </a>
+            </li>
+        </ul>
+    </div>
+    <div class="chung tsae">
+        <div class="title">
+            <h3>相关链接</h3>
+            <span class="func">▼</span>
+        </div>
+        <ul class="related_links contents">
+            <li>
+                <a href="https://yuyan.fandom.com/zh/wiki/%E7%99%BD%E8%8F%9C%E8%AF%AD" target="_blank">
+                    <img src="{{ '/images/Site-favicon.webp' | relative_url }}" alt="白菜语 | 人造语言 维基 | Fandom" title="白菜语 | 人造语言 维基 | Fandom" class="icons"> 白菜语Fandom维基页
+                </a>
+            </li>
+            <li>
+                <a href="https://www.instagram.com/lenda.sarieh/" target="_blank">
+                    <img src="{{ '/images/lam-fZmwmvn.png' | relative_url }}" alt="白菜语官方Instagram账号" title="白菜语官方Instagram账号" class="icons"> 白菜语官方Instagram账号
+                </a>
+            </li>
+            <li>
+                <a href="https://discord.gg/Dn9qssxg99" target="_blank">
+                    <img src="{{ '/images/discord.png' | relative_url }}" alt="白菜语社区Discord服务器" title="白菜语社区Discord服务器" class="icons"> 白菜语社区Discord服务器
+                </a>
+            </li>
+            <li>
+                <a href="https://qm.qq.com/q/XmwGhrDMsA" target="_blank">
+                    <img src="{{ '/images/QQ.png' | relative_url }}" alt="QQ白菜语社区群" title="QQ白菜语社区群" class="icons"> QQ白菜语社区群
+                </a>
+            </li>
+            <li>
+                <a href="https://weibo.com/p/100808c268100d5a2443583c9069f1a647dd3c/super_index" target="_blank">
+                    <img src="{{ '/images/微博.png' | relative_url }}" alt="微博白菜语超话" title="微博白菜语超话" class="icons"> 微博白菜语超话
+                </a>
+            </li>
+            <li>
+                <a href="https://v.douyin.com/B9Uxjrb/" target="_blank">
+                    <img src="{{ '/images/app_icon.ico' | relative_url }}" alt="白菜语社区官方抖音账号" title="白菜语社区官方抖音账号" class="icons"> 白菜语社区官方抖音账号
+                </a>
+            </li>
+            <li>
+                <a href="https://tieba.baidu.com/f?fr=wwwt&ie=utf-8&dyTabStr=MCw0LDIsNiw1LDEsMyw3LDgsOQ%3D%3D&kw=%E7%99%BD%E8%8F%9C%E8%AF%AD" target="_blank">
+                    <img src="{{ '/images/social-tieba.png' | relative_url }}" alt="百度贴吧白菜语吧" title="百度贴吧白菜语吧" class="icons"> 百度贴吧白菜语吧
+                </a>
+            </li>
+            <li>
+                <a href="https://www.cnblogs.com/lendasarieh-rs/" target="_blank">
+                    <img src="{{ '/images/博客园.png' | relative_url }}" alt="白菜语博客园主页" title="白菜语博客园主页" class="icons"> 白菜语博客园主页
+                </a>
+            </li>
+            <li>
+                <a href="https://b23.tv/k5W5f1r" target="_blank">
+                    <img src="{{ '/images/bilibili.png' | relative_url }}" alt="B站视频合辑" title="B站白菜语视频合辑" class="icons"> B站白菜语视频合辑
+                </a>
+            </li>
+            <li>
+                <a href="https://b23.tv/cs4Xer3" target="_blank">
+                    <img src="{{ '/images/bilibili (1).png' | relative_url }}" alt="B站专栏文集" title="B站白菜语专栏文集" class="icons"> B站白菜语专栏文集
+                </a>
+            </li>
+            <li>
+                <a href="https://youtube.com/playlist?list=PL_jXKwzZ_mxC6Z9v41Z7Ald5an1sC9twx" target="_blank">
+                    <img src="{{ '/images/favicon_144x144.png' | relative_url }}" alt="白菜语YouTube播放列表" title="白菜语YouTube播放列表" class="icons"> 白菜语YouTube播放列表
+                </a>
+            </li>
+            <li>
+                <a href="https://zh.moegirl.org.cn/%E5%B0%A4%E8%8E%8E%E8%8E%89" target="_blank">
+                    <img src="{{ '/images/favicon_moe.ico' | relative_url }}" alt="尤莎莉萌娘百科词条" title="尤莎莉萌娘百科词条" class="icons"> 尤莎莉萌娘百科词条
+                </a>
+            </li>
+            <li>
+                <a href="https://github.com/lendasarieh/lendasarieh.github.io" target="_blank">
+                    <img src="{{ '/images/github.png' | relative_url }}" alt="本站GitHub仓库" title="本站GitHub仓库" class="icons"> 本站GitHub仓库
+                </a>
+            </li>
+            <li>
+                <a href="https://github.com/jack201806/Lenda-Sarieh-RS" target="_blank">
+                    <img src="{{ '/images/github.png' | relative_url }}" alt="白菜语GitHub仓库" title="白菜语GitHub仓库" class="icons"> 白菜语GitHub仓库
+                </a>
+            </li>
+        </ul>
+    </div>
+</div>
