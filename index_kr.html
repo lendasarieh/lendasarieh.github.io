@@ -16,8 +16,8 @@
 
 <body>
     <script>
-        console.log("이 번역문은 DeepL Translator를 통해 번역되었으며, [sinkulove] (sinkulove@naver.com)에 의해 교정되었습니다.");
-        console.log("The translation is translated via DeepL Translator and corrected by [sinkulove] (sinkulove@naver.com).");
+        console.log("이 번역문은 DeepL Translator를 통해 번역되었으며, [양소희] (sinkulove@naver.com)에 의해 교정되었습니다.");
+        console.log("The translation is translated via DeepL Translator and corrected by [양소희] (sinkulove@naver.com).");
     </script>
     <div class="top">
         <img class="rs_logo" src="./images/Lenda Sarieh [Trsp-C].png" alt="Lenda Sarieh Logo">
@@ -239,6 +239,51 @@
             } //var和let有区别！该段内第2、3行必须是let而不是var！
         </script>
     </div>
+    <!-- <script>
+        /*切换“纯谚文”和“汉谚混写”*/
+        var switch_ws = document.getElementById("switch_ws");
+        var ctx_rc1_0 = document.getElementsByClassName("ctx_rc1");
+        var ctx_roh_0 = document.getElementsByClassName("ctx_roh");
+        var table_rc1 = document.getElementById("table_rc1");
+        var table_roh = document.getElementById("table_roh");
+        // ctx_roh_0.style.display = "none";
+        // ctx_rc1_0.style.display = "block";
+        console.log("ctx_rc1_0.length = " + ctx_rc1_0.length);
+        console.log("ctx_roh_0.length = " + ctx_roh_0.length);
+        switch_ws.onclick = function() {
+            if (switch_ws.innerHTML == "한글") {
+                switch_ws.style.background = "#008080";
+                switch_ws.style.color = "#0f0";
+                switch_ws.innerHTML = "국한문"
+                switch_ws.title = "국한문 혼용"
+                table_rc1.style.display = "none";
+                table_roh.style.display = "flex";
+                // ctx_rc1_0.style.display = "none";
+                // ctx_roh_0.style.display = "block";
+                for (let i = 0; i < ctx_rc1_0.length; i++) {
+                    let ctx_rc1 = ctx_rc1_0[i];
+                    let ctx_roh = ctx_roh_0[i];
+                    ctx_rc1.style.display = "none";
+                    ctx_roh.style.display = "block";
+                }
+            } else {
+                switch_ws.style.background = "#0f0";
+                switch_ws.style.color = "#008080";
+                switch_ws.innerHTML = "한글"
+                switch_ws.title = "한글 전용"
+                table_roh.style.display = "none";
+                table_rc1.style.display = "flex";
+                // ctx_roh_0.style.display = "none";
+                // ctx_rc1_0.style.display = "block";
+                for (let i = 0; i < ctx_roh_0.length; i++) {
+                    let ctx_rc1 = ctx_rc1_0[i];
+                    let ctx_roh = ctx_roh_0[i];
+                    ctx_roh.style.display = "none";
+                    ctx_rc1.style.display = "block";
+                }
+            }
+        }
+    </script> -->
     <div class="bottom">
         <p>
             추가 문의 사항이 있으시면 이메일로 <a href="mailto:jack201806@outlook.com">Jack Wang</a>에게 연락해 주시기 바랍니다.
