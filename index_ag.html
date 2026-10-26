@@ -13,8 +13,22 @@
     <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@400;700&display=swap" rel="stylesheet">
     <script src="https://cdn.pagesense.cn/js/hcusygmu/4b63e210f4cf43598a8dbf2256120912.js"></script>
     <style type="text/css">
-        body *{
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        /* 引入 Noto Sans 字体 */
+        @import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+        /* 如果你需要衬线体，可以引入 Noto Serif */
+        /* @import url('https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,400;0,700;1,400;1,700&display=swap'); */
+
+        body * {
+            /* 将 Noto Sans 放在首位，兜底用系统字体 */
+            font-family: 'Noto Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif !important;
+            
+            /* 优化移动端文本渲染 */
+            text-rendering: optimizeLegibility;
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale;
+            
+            /* 防止移动端浏览器自己合成伪粗体/伪斜体导致字符变形 */
+            font-synthesis: none; 
         }
     </style>
 </head>
